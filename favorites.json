@@ -1,0 +1,75 @@
+[
+  {
+    "name": "至高の魂　アビスベル＝ジャシン帝",
+    "cost": "5",
+    "race": "アビスロイヤル",
+    "civilization": "多色",
+    "count": 4,
+    "image": null
+  },
+  {
+    "name": "蒸熱のタイフーン",
+    "cost": "2",
+    "race": "　",
+    "civilization": "水",
+    "count": 2,
+    "image": null
+  },
+  {
+    "name": "邪侵入",
+    "cost": "3",
+    "race": "　",
+    "civilization": "闇",
+    "count": 4,
+    "image": null
+  },
+  {
+    "name": "炎氷渦と鎮魂渦の決断",
+    "cost": "6",
+    "race": "　",
+    "civilization": "多色",
+    "count": 4,
+    "image": null
+  },
+  {
+    "name": "至高の邪騎　スベルニル",
+    "cost": "4",
+    "race": "アビスロイヤル",
+    "civilization": "闇",
+    "count": 4,
+    "image": null
+  },
+  {
+    "name": "終末の時計　ザ・クロック",
+    "cost": "3",
+    "race": "アウトレイジMAX",
+    "civilization": "水",
+    "count": 3,
+    "image": null
+  },
+  {
+    "name": "超神羅星アポロヌス・ドラゲリオン",
+    "cost": "6",
+    "race": "フェニックス",
+    "civilization": "火",
+    "count": 1,
+    "image": null
+  },
+  {
+    "name": "アストラルの海幻",
+    "cost": "2",
+    "race": "サイバー・ウイルス/レクスターズ",
+    "civilization": "水",
+    "count": 2,
+    "image": null
+  },
+  {
+    "name": "1",
+    "cost": "4",
+    "race": "d",
+    "type": "クリーチャー",
+    "civilization": "火",
+    "count": 1,
+    "image": null
+  }
+]
